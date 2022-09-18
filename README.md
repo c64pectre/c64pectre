@@ -1,8 +1,6 @@
 C64PECTRE
 
-MISSION STATEMENT
-
-To conduct research and development on the Commodore 64 home computer and related machines and peripherals, and document and disseminate knowledge.
+Research and development on the Commodore 64 home computer and related machines and peripherals, and the 6502 family of microprocessors.
 
 Chief Technology Officer
 
